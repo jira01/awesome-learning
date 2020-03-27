@@ -28,3 +28,7 @@
 ## IDE  
 
 - [1.VS Code Java开发](https://github.com/jast90/awesome-books/issues/15)
+
+## 参与分享  
+
+可以在本仓库中的issue中分享、交流经验 
