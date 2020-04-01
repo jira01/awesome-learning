@@ -28,6 +28,9 @@
 
 - [1.VS Code Java开发](https://github.com/jast90/awesome-books/issues/15)
 
+## 思维导图
+- [中间件](https://www.processon.com/view/link/5e636046e4b06578661a8f5d#map)
+
 ## 参与分享  
 
 可以在本仓库中的issue中分享、交流经验 
