@@ -16,6 +16,11 @@
 - [5.CentOS各版本关闭防火墙](Linux/5.CentOS各版本关闭防火墙.md)
 - [6.crontab定时任务](Linux/6.crontab定时任务.md)
 
+## Linux自定义功能脚本
+
+- [文件或目录复制到远程机器](https://github.com/jast90/awesome-books/issues/5#issuecomment-601547323)
+- [Zookeeper集群启动|暂停|状态脚本](https://github.com/jast90/awesome-books/issues/5#issuecomment-608341496)
+
 ## Hadoop
 
 - [1.hadoop常用端口及管理界面](https://github.com/jast90/awesome-books/issues/10)
