@@ -19,7 +19,8 @@
 ## Linux自定义功能脚本
 
 - [文件或目录复制到远程机器](https://github.com/jast90/awesome-books/issues/5#issuecomment-601547323)
-- [Zookeeper集群启动|暂停|状态脚本](https://github.com/jast90/awesome-books/issues/5#issuecomment-608341496)
+- [Zookeeper集群 启动|暂停|状态](https://github.com/jast90/awesome-books/issues/5#issuecomment-608341496)
+- [Kafka集群 启动|暂停](https://github.com/jast90/awesome-books/issues/5#issuecomment-608398815)
 
 ## Hadoop
 
