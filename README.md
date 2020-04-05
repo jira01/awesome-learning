@@ -37,6 +37,7 @@
 ## 思维导图
 
 - [中间件](https://www.processon.com/view/link/5e636046e4b06578661a8f5d#map)
+![中间件思维导图](image/middleware.png)
 
 ## 参与分享  
 
