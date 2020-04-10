@@ -34,6 +34,31 @@
 
 - [1.VS Code Java开发](https://github.com/jast90/awesome-books/issues/15)
 
+## SQL
+
+- [SQL/HQL 窗口函数是什么鬼？](https://github.com/jast90/awesome-books/issues/27#issue-595545747)
+- [SQL 开窗函数简介](https://github.com/jast90/awesome-books/issues/27#issuecomment-610837684)
+- [值窗口函数](https://github.com/jast90/awesome-books/issues/27#issuecomment-611848265)
+- [排名窗口函数](https://github.com/jast90/awesome-books/issues/27#issuecomment-611854304)
+
+### MySQL
+
+- [MySQL：delete语句](https://github.com/jast90/leetcode/issues/1)
+- [MySQL：处理group by（深入理解group by）](https://github.com/jast90/leetcode/issues/2)
+- [MySQL：汇总（GROUP BY）函数](https://github.com/jast90/leetcode/issues/3)
+- [MySQL：流程控制函数](https://github.com/jast90/leetcode/issues/4)
+- [MySQL：运算符](https://github.com/jast90/leetcode/issues/5)
+- [MySQL：数值函数及操作符](https://github.com/jast90/leetcode/issues/6)
+- [MySQL：日期和时间函数](https://github.com/jast90/leetcode/issues/7)
+
+### Hive
+
+- [Hive中的新概念](https://github.com/jast90/awesome-books/issues/30)
+
+### 案例
+
+- [HQL和SQL案例](https://github.com/jast90/awesome-books/issues/29)
+
 ## 思维导图
 
 - [中间件](https://www.processon.com/view/link/5e636046e4b06578661a8f5d#map)
