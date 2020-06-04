@@ -55,9 +55,13 @@
 
 - [Hive中的新概念](https://github.com/jast90/awesome-books/issues/30)
 
-### 案例
+### 大数据案例
 
 - [HQL和SQL案例](https://github.com/jast90/awesome-books/issues/29)
+- [大数据课程实验案例《网站用户购物行为分析》](http://dblab.xmu.edu.cn/post/7499/)
+- [Spark课程综合实验案例：淘宝双11数据分析与预测](http://dblab.xmu.edu.cn/post/8116/)
+- [Spark课程综合实验案例：Spark+Kafka构建实时分析Dashboard](http://dblab.xmu.edu.cn/post/8274/)
+- [Spark课程综合实验案例：厦门租房信息分析展示](http://dblab.xmu.edu.cn/blog/2307/)
 
 ## 思维导图
 
