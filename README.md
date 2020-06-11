@@ -69,20 +69,20 @@
 ![中间件思维导图](image/middleware.png)
 
 ### 思维导图构建进度
--[] hadoop 
--[] Zookeeper 
--[] Flume 
--[] Kafka 
--[] Hive 
--[] HBase 
--[] Sqoop 
--[] Spark 
--[] CDH 
--[] MongoDB 
--[] solr 
--[] ES 
--[] RabbitMQ 
--[] RocketMQ 
+- [x] hadoop 
+- [x] Zookeeper 
+- [x] Flume 
+- [x] Kafka 
+- [x] Hive 
+- [x] HBase 
+- [x] Sqoop 
+- [x] Spark 
+- [ ] CDH 
+- [ ] MongoDB 
+- [ ] solr 
+- [ ] ES 
+- [ ] RabbitMQ 
+- [ ] RocketMQ 
 
 
 ## 参与分享  
