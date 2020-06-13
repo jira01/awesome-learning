@@ -55,6 +55,9 @@
 
 - [Hive中的新概念](https://github.com/jast90/awesome-books/issues/30)
 
+### 云服务器
+- [GCP SSH免密登入配置](https://github.com/jast90/awesome-learning/issues/53)
+
 ### 大数据案例
 
 - [HQL和SQL案例](https://github.com/jast90/awesome-books/issues/29)
