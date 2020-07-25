@@ -81,7 +81,7 @@
 - [x] HBase 
 - [x] Sqoop 
 - [x] Spark 
-- [ ] CDH 
+- [x] CDH 
 - [ ] MongoDB 
 - [ ] solr 
 - [ ] ES 
