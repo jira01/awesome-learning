@@ -69,7 +69,7 @@
 ## 思维导图
 
 - [我的processon注册邀请链接](https://www.processon.com/i/5cdd3988e4b05071d4826643)
-- [中间件](https://www.processon.com/view/link/5e636046e4b06578661a8f5d#map)
+- [中间件](https://www.processon.com/view/5cf7290de4b06e3f4facc563#map)
 ![中间件思维导图](image/middleware.png)
 
 ### 思维导图构建进度
