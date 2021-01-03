@@ -91,6 +91,10 @@
 ## 电子书
 [计算机电子书收集](https://github.com/jast90/awesome-learning/issues/60)
 
+## 赞赏
+![微信赞赏](https://jastz.oss-cn-beijing.aliyuncs.com/pay-for-me-wechat.jpg)
+![支付宝赞赏](https://jastz.oss-cn-beijing.aliyuncs.com/pay-for-me-alipay.jpg)
+
 ## 参与分享  
 
 可以在本仓库中的issue中分享、交流经验 
