@@ -95,10 +95,6 @@
 ![微信赞赏](https://jastz.oss-cn-beijing.aliyuncs.com/pay-for-me-wechat.jpg)
 ![支付宝赞赏](https://jastz.oss-cn-beijing.aliyuncs.com/pay-for-me-alipay.jpg)
 
-## 价格便宜的梯子（fq）
-
-[https://order.yizhihongxing.network/aff.php?aff=5666](https://order.yizhihongxing.network/aff.php?aff=5666)
-
 ## 参与分享  
 
 可以在本仓库中的issue中分享、交流经验 
