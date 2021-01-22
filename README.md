@@ -9,7 +9,7 @@
 
 ## Linux  
 
-- [1.Linux命令汇总](Linux/1.Linux命令汇总.md)
+- [1.Linux shell教程](https://github.com/jast90/awesome-learning/issues/9)
 - [2.Linux主机之间免密远程登入](Linux/2.Linux主机之间免密远程登入.md)
 - [3.Linux-shell-工具汇总](Linux/3.Linux-shell-工具汇总.md)
 - [4.CentOS卸载自带的JDK并通过tar包安装JDK](Linux/4.CentOS卸载自带的JDK并通过tar包安装JDK.md)
