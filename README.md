@@ -89,7 +89,7 @@
 - [ ] RocketMQ 
 
 ## 电子书
-[计算机电子书收集](https://github.com/jast90/awesome-learning/issues/60)
+[在读免费电子书籍](https://github.com/jast90/awesome-learning/issues/60)
 
 ## 参与分享  
 
